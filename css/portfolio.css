@@ -1,0 +1,21 @@
+.btn-galery {
+    background-color: #F5F4FA;
+    color: #212121;
+    font-family: var(--primary-font);
+    font-weight: 500;
+}
+
+.btn-galery:hover, .btn-galery:focus {
+    background-color: var(--accent-color);
+    color: var(--white-color);
+}
+
+.portfolio-header {
+    font-family: var(--primary-font);
+    font-weight: 600;
+}
+.portfolio-text {
+    font-family: var(--primary-font);
+    font-weight: 400;
+    color: var(--secondary-font-color);
+}
